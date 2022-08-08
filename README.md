@@ -12,6 +12,7 @@ Here, I will post some information on my progress on each topic.
 ## Git Basics ##
 
 I have listened to the first two weeks of the course Introduction to Git and GitHub: [1 week](general/git-basics/week-1.png) and [2 week](general/git-basics/week-2.png) </br>
+I've passed some levels on learngitbranching: [Introduction Sequence](general/git-basics/branching-1.jpg) and [Push & Pull](general/git-basics/branching-1.jpg).</br>
 I have also managed to create a pull-request.
 
 ## Linux CLI and Networking ##
