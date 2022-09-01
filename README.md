@@ -25,7 +25,9 @@ I've also read about HTTP protocol but it was difficult for me. I think I should
 I have listened to the [3rd](general/vcs-github-and-collaboration/week-3.png) and [4th](general/vcs-github-and-collaboration/week-4.png) weeks of the course Introduction to Git and GitHub.</br>
 I've passed some more levels on learngitbranching: [Screen 1](general/vcs-github-and-collaboration/branching-3.jpg) and [Screen 2](general/vcs-github-and-collaboration/branching-4.jpg). It's been even more difficult and I hope that more practice will help me to understand everything.
  
+## Intro to HTML & CSS ##
 
+It took me longer than I expected. But I've made it through [1st](front-end-basics/intro-to-html-and-css/week-1.png) and [2nd](front-end-basics/intro-to-html-and-css/week-2.png) weeks of Introduction to Responsive Design. First lessons in [Learn HTML](front-end-basics/intro-to-html-and-css/learn-html.jpg) and [Learn CSS](front-end-basics/intro-to-html-and-css/learn-css.jpg) are done as well. I will continue doing tasks there bbut first I will try to continue my way on this course.
 
 
 
