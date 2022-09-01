@@ -27,7 +27,7 @@ I've passed some more levels on learngitbranching: [Screen 1](general/vcs-github
  
 ## Intro to HTML & CSS ##
 
-It took me longer than I expected. But I've made it through [1st](front-end-basics/intro-to-html-and-css/week-1.png) and [2nd](front-end-basics/intro-to-html-and-css/week-2.png) weeks of Introduction to Responsive Design. First lessons in [Learn HTML](front-end-basics/intro-to-html-and-css/learn-html.jpg) and [Learn CSS](front-end-basics/intro-to-html-and-css/learn-css.jpg) are done as well. I will continue doing tasks there bbut first I will try to continue my way on this course.
+It took me longer than I expected. But I've made it through [1st](front-end-basics/intro-to-html-and-css/week-1.png) and [2nd](front-end-basics/intro-to-html-and-css/week-2.png) weeks of Introduction to Responsive Design. First lessons in [Learn HTML](front-end-basics/intro-to-html-and-css/learn-html.jpg) and [Learn CSS](front-end-basics/intro-to-html-and-css/learn-css.jpg) are done as well. I will continue doing tasks there but first I will try to continue my way on this course. Also, I watched 3-15 videos from [this playlist](https://www.youtube.com/playlist?list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr). I tried to do all the tasks from the description of the videos and I can see that browsers can be annoying.
 
 
 
