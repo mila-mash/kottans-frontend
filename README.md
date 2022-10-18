@@ -36,7 +36,6 @@ It took me longer than I expected. But I've made it through [1st](front-end-basi
 I've known a few things about flexbox so learning about it was not that difficult. [Flexbox Froggy](front-end-basics/responsive-web-design/flex-frogs.jpg) was a really nice game, though I had to think a lot before passing the last level. 
 Grid Layout was muuuuuuch more difficult for me. I don't think I've understood enough. [Grid Garden](front-end-basics/responsive-web-design/grid-garden.jpg) helped a lot to understand some basic things. Still,  I will have to get back to this topic.
 
-
-
+## HTML & CSS Practice ##
 
 
