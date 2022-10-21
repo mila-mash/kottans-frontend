@@ -25,6 +25,8 @@ I've also read about HTTP protocol but it was difficult for me. I think I should
 I have listened to the [3rd](general/vcs-github-and-collaboration/week-3.png) and [4th](general/vcs-github-and-collaboration/week-4.png) weeks of the course Introduction to Git and GitHub.</br>
 I've passed some more levels on learngitbranching: [Screen 1](general/vcs-github-and-collaboration/branching-3.jpg) and [Screen 2](general/vcs-github-and-collaboration/branching-4.jpg). It's been even more difficult and I hope that more practice will help me to understand everything.
 
+---
+
 # Front-End Basics #
 
 ## Intro to HTML & CSS ##
@@ -37,5 +39,10 @@ I've known a few things about flexbox so learning about it was not that difficul
 Grid Layout was muuuuuuch more difficult for me. I don't think I've understood enough. [Grid Garden](front-end-basics/responsive-web-design/grid-garden.jpg) helped a lot to understand some basic things. Still,  I will have to get back to this topic.
 
 ## HTML & CSS Practice ##
+
+Creating popup was an interesting experience. I needed to look at the works of other students to understand how some things work. Though I had my own ideas too. Then, I still made a few mistakes and managed to fix them. There was also a weird thing with GitHub Pages. I understood it hadn't seen styles because I incorrectly indicated the path to the css-file and images. Still, I needed time to understand what exactly was wrong as Live Server in VS Code could see everything as expected.
+Anyway, here is [link](https://github.com/mila-mash/pop-up.git) to the repo with this task.
+
+## JavaScript Basics ##
 
 
